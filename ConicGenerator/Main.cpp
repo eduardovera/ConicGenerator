@@ -1,7 +1,7 @@
 /**
  Conic Generator
  Main.cpp
- @auhor Eduardo Vera Sousa
+ @author Eduardo Vera Sousa
 */
 
 #include "stdafx.h"
